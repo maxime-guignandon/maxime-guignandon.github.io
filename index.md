@@ -8,11 +8,7 @@ I am a PhD student in Applied Mathematics at the [École Normale Supérieure de 
 
 My PhD research focuses on **interpretability for kernel-based statistical testing**. My interests lie at the intersection of statistical learning and applied mathematics. In particular, I am interested in:
 
-* kernel methods;
-* statistical testing;
-* interpretability;
-* sensitivity analysis;
-* machine learning.
+**Kernel methods · Statistical testing · Interpretability · Sensitivity analysis · Machine learning**
 
 My current work investigates how kernel-based statistical tests can be made more interpretable, with the aim of better understanding which aspects of the data drive their conclusions.
 

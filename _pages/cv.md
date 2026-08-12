@@ -14,7 +14,7 @@ You can download my  [**CV**](/files/cv.pdf) in french (version of April 2025).
 **École Normale Supérieure de Lyon (ENS de Lyon)** — Lyon, France <br>
 *2026 – Present* <br>
 Title: **Interpretability for kernel-based statistical testing** <br>
-Supervised : [F.Picard](https://franckpicard.github.io/) (ENS Lyon) and [C.Helbert](https://www.ec-lyon.fr/recherche-et-innovation/la-recherche-centrale-lyon/nos-chercheurs/helbert-celine) 
+Supervised : [F.Picard](https://franckpicard.github.io/) (ENS Lyon) and [C.Helbert](https://www.ec-lyon.fr/recherche-et-innovation/la-recherche-centrale-lyon/nos-chercheurs/helbert-celine) (Centrale Lyon) 
 
 ## Master's in Applied Mathematics and Statistics <br>
 **Université Claude Bernard Lyon 1** — Villeurbanne, France <br>
