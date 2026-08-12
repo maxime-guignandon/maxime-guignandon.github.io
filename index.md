@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a PhD student in Applied Mathematics at the École Normale Supérieure de Lyon, working in the ScAI team at the Laboratoire de Biologie et Modélisation de la Cellule (LBMC).
+I am a PhD student in Applied Mathematics at the [École Normale Supérieure de Lyon](https://www.ens-lyon.fr/), working in the [SCAI](https://lbmc.gitbiopages.ens-lyon.fr/scai/team/) team at the [Laboratoire de Biologie et Modélisation de la Cellule (LBMC)](https://www.ens-lyon.fr/LBMC).
 
 My PhD research focuses on **interpretability for kernel-based statistical testing**. My interests lie at the intersection of statistical learning and applied mathematics. In particular, I am interested in:
 
@@ -18,10 +18,10 @@ My current work investigates how kernel-based statistical tests can be made more
 
 ## Contact
 
-Laboratoire de Biologie et Modélisation de la Cellule
-ENS de Lyon
-46, allée d’Italie
-69364 Lyon Cedex 07 · France
+Laboratoire de Biologie et Modélisation de la Cellule <br>
+ENS de Lyon <br>
+46, allée d’Italie <br>
+69364 Lyon Cedex 07 · France <br>
 
 Email: [maxime.guignandon@ens-lyon.fr](mailto:maxime.guignandon@ens-lyon.fr)
 
