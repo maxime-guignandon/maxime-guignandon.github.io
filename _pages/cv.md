@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can download my  [**CV**](/files/cv.pdf) in french (version of April 2025).
+You can download my  [**CV**](/files/cv.pdf) in french (version of August 2026).
 
 ---
 
