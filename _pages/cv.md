@@ -56,6 +56,6 @@ Scientific english project in collaboration with Efflam Vicart (ICJ-Lyon 1) supe
 **Institut Camille Jordan — Université Claude Bernard Lyon 1** — Villeurbanne, France <br>
 *June 2024 – July 2024* <br>
 Introductory research internship (M1) supervised by Igor Honoré (ICJ-Lyon 1), on the correspondence between the infinitesimal generator of a stochastic process and the PDE governing its probability density.<br>
-[**Manuscript (PDF)**](/files/M1_intership_report.pdf)
+[**Manuscript (PDF)**](/files/M1_internship_report.pdf)
 
 
